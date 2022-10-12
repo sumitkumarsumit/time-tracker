@@ -8,7 +8,7 @@ Simple Java-app using Maven.
 
 ## Building
 
-Standard maven targets for building.
+Standard maven the sumit targets for building.
 
 Requirements:
 
